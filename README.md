@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/safia-faiz02/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/safia-faiz02/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/safia-faiz02/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0907-koko-eating-bananas](https://github.com/safia-faiz02/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/safia-faiz02/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0907-koko-eating-bananas](https://github.com/safia-faiz02/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/safia-faiz02/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
